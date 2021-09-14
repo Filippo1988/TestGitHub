@@ -9,6 +9,8 @@ namespace Console_Git
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Hello - Ciao");
+            Console.WriteLine("Salut");
+
         }
     }
 }
