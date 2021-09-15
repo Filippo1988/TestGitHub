@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Git", "Console_Git\Console_Git.csproj", "{F5663A62-37CF-4DD6-B011-F62116F82E31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestione", "Gestione\Gestione.csproj", "{48E2E9F4-CB2F-424C-A0DB-3EC0A50D67FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5663A62-37CF-4DD6-B011-F62116F82E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5663A62-37CF-4DD6-B011-F62116F82E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5663A62-37CF-4DD6-B011-F62116F82E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E2E9F4-CB2F-424C-A0DB-3EC0A50D67FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E2E9F4-CB2F-424C-A0DB-3EC0A50D67FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E2E9F4-CB2F-424C-A0DB-3EC0A50D67FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E2E9F4-CB2F-424C-A0DB-3EC0A50D67FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
